@@ -1,2 +1,0 @@
-# latihan_php_with_database
-latihan_database
